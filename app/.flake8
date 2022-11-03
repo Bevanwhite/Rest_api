@@ -1,5 +1,5 @@
 [flask8]
---exclude = 
+exclude = 
     migrations,
     __pycache__,
     manage.py,
