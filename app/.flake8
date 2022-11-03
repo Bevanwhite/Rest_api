@@ -1,4 +1,5 @@
 [flask8]
+max-line-length=160
 exclude = 
     migrations,
     __pycache__,
