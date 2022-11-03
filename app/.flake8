@@ -1,6 +1,5 @@
 [flask8]
-max-line-length=160
-exclude = 
+--exclude = 
     migrations,
     __pycache__,
     manage.py,
