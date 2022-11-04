@@ -1,4 +1,4 @@
-From python:3.8-alpine3.13
+From python:3.9-alpine3.13
 Label mainrainer="https://github.com/Bevanwhite"
 
 ENV PYTHONUNBUFFERED 1
